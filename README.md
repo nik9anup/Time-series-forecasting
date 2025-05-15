@@ -8,7 +8,7 @@ RideWave, a versatile urban mobility service, has been operating in Quahog City 
 
 - Analysis on the provided data, developed predictive models for fare forecasting, and provided actionable insights to help RideWave implement dynamic pricing across its multi-vehicle fleet in Quahog City.
 
-- Performed thorough residual analysis for further insights into the performance of our model.
+- Performed thorough residual analysis for further insights into the performance of model.
 
 - Best SMAPE score obtained: 2.66 
   (lower the better)
