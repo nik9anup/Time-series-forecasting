@@ -2,7 +2,7 @@
 
 RideWave, a versatile urban mobility service, has been operating in Quahog City for the past five years. The company offers three types of vehicles: bikes, autos (three-wheeled vehicles), and cars. As they face increasing competition, RideWave wants to leverage its historical data to optimize pricing strategies for each vehicle type in Quahog City.
 
-<b>The task performed: </b>
+<b>The tasks performed: </b>
 
 - Given a rich data set containing hourly data from 2021 to 2023 for bikes, autos and cars from RideWave.
 
